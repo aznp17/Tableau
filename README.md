@@ -14,10 +14,9 @@ The primary goal was to answer the question: **How has Pokémon changed signific
 
 This dashboard uses several key interactive visualizations to communicate the findings:
 
-* **Media Dominance:** Pie charts indicating how 
-* **Generation Power Trend:** A line or area chart showing the average *Total Base Stats* (HP + Attack + Defense + Sp. Atk + Sp. Def + Speed) plotted over each of the existing Pokémon generations. *(This is where the power creep analysis is visible.)*
-* **Type Strengths:** A packed bubble chart or treemap comparing the average stats across all **18 Pokémon types** (e.g., Water, Fire, Grass), highlighting which types have the highest defensive or offensive averages.
-* **Stat Distribution Heatmap:** A heatmap displaying the distribution of individual Base Stats (HP, Attack, etc.) within a selected Generation, allowing users to see which stats are most common or rare.
+* **Media Dominance:** Pie charts indicating Pokemon's relevance, bar charts comparing games sold and pokemon cards sold, histograms and star charts comparing Pokemon attack stats. 
+* **Generation Power Trend:** A star chart showing the average *Total Base Stats* (Attack + Defense + Sp. Atk + Sp. Def + Speed) plotted over each of the existing Pokémon generations. 
+* **Type Strengths:** A packed bubble chart comparing the Pokemon types across all generations highlighting which generation has the most variety Pokemon types. 
 
 ---
 
@@ -25,8 +24,7 @@ This dashboard uses several key interactive visualizations to communicate the fi
 
 | Tool | Purpose |
 | :--- | :--- |
-| **Tableau Desktop / Public** | Primary tool for data visualization and dashboard creation. |
-| **Microsoft Excel / Google Sheets** | Initial data cleaning, restructuring, and calculation of Total Base Stats. |
+| **Tableau Desktop** | Primary tool for data visualization and dashboard creation. |
 | **GitHub** | Version control and portfolio hosting. |
 | **Source Data** | Comprehensive dataset covering all generations of Pokémon with base stats. |
 
