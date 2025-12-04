@@ -4,9 +4,9 @@
 
 ### **Project Overview**
 
-This project explores the evolution of Pokémon base statistics (HP, Attack, Defense, etc.) across different generations, aiming to identify trends, power creep, and statistical balance over the franchise's lifespan. It is a key piece in my **Tableau Dashboarding Portfolio**, demonstrating my skills in data preparation, advanced visual design, and interactive storytelling.
+This project explores Pokemon's presense in the media and the evolution of Pokémon games (Pokemon type, Attack, Special Attack, Defense, and Special Defense) across different generations, aiming to identify trends and statistical balance over the franchise's lifespan (up to 7th generation). It is a key piece in my **Tableau Dashboarding Portfolio**, demonstrating my skills in data preparation, advanced visual design, and interactive storytelling.
 
-The primary goal was to answer the question: **Have the base stats of Pokémon changed significantly or increased over the generations?**
+The primary goal was to answer the question: **How has Pokémon changed significantly over the generations?**
 
 ---
 
@@ -14,10 +14,10 @@ The primary goal was to answer the question: **Have the base stats of Pokémon c
 
 This dashboard uses several key interactive visualizations to communicate the findings:
 
+* **Media Dominance:** Pie charts indicating how 
 * **Generation Power Trend:** A line or area chart showing the average *Total Base Stats* (HP + Attack + Defense + Sp. Atk + Sp. Def + Speed) plotted over each of the existing Pokémon generations. *(This is where the power creep analysis is visible.)*
 * **Type Strengths:** A packed bubble chart or treemap comparing the average stats across all **18 Pokémon types** (e.g., Water, Fire, Grass), highlighting which types have the highest defensive or offensive averages.
 * **Stat Distribution Heatmap:** A heatmap displaying the distribution of individual Base Stats (HP, Attack, etc.) within a selected Generation, allowing users to see which stats are most common or rare.
-* **Legendary Impact:** A toggle or filter that lets the user compare the average stats of **Legendary** and **Mythical** Pokémon against their non-Legendary counterparts across generations.
 
 ---
 
