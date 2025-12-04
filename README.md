@@ -44,3 +44,7 @@ This repository contains all the necessary files to recreate the dashboard:
 * `Pokemon_Stats_Dataset.csv`: The clean, final dataset used for the visualization.
 * `Pokemon_Stats_Analysis.twb` or `Pokemon_Stats_Analysis.twbx`: The Tableau Workbook file.
 * `Tableau_Screenshots/`: Folder containing high-resolution images of the final dashboard.
+
+* ### **Limitations**
+
+
