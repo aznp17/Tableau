@@ -20,7 +20,7 @@ This dashboard uses several key interactive visualizations to communicate the fi
 
 ---
 
-### **Tools & Technologies**
+### **Tools & Data**
 
 | Tool | Purpose |
 | :--- | :--- |
@@ -30,10 +30,9 @@ This dashboard uses several key interactive visualizations to communicate the fi
 
 
 ### **Reflections & Learning Points**
-
-* **Challenge:** The most significant challenge was standardizing the data, as stat names and types evolved slightly across various source datasets. This required careful **data blending** and **cross-referencing**.
-* **Key Insight:** The analysis confirms a subtle but measurable **power creep** over generations, with certain stat distributions becoming more common (e.g., higher average Special Attack).
-* **Future Enhancements:** I plan to incorporate additional data points, such as **Abilities** and **Held Items**, to model a more complete competitive landscape.
+* **Limitations:** This analysis only discusses the Pokemon's Type 1 stats and not the moves tied to the stats**.
+* **Key Insight:** The developers made the psychic Pokemon too powerful and rebalanced by introducing the Dark and Steep type Pokemon. However, the Dragon type then dominated the next generation with led to the creation of the Fairy type Pokemon. 
+* **Future Enhancements:** A plan to incorporate additional data points, such as **Abilities** and **Held Items**, to model a more complete competitive landscape.
 
 ---
 
@@ -45,6 +44,7 @@ This repository contains all the necessary files to recreate the dashboard:
 * `Pokemon_Stats_Analysis.twb` or `Pokemon_Stats_Analysis.twbx`: The Tableau Workbook file.
 * `Tableau_Screenshots/`: Folder containing high-resolution images of the final dashboard.
 
-* ### **Limitations**
+### **Limitations**
+
 
 
